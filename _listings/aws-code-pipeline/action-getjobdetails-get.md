@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetJobDetails&k=1:
+  /?Action=GetJobDetails:
     get:
       summary: ' Get Job Details '
       description: Returns information about a job
