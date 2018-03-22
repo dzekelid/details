@@ -36,7 +36,7 @@ apis:
   tags: Details
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/aws-code-pipeline/action-getjobdetails-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/aws-code-pipeline/action-getthirdpartyjobdetails-get.md
 x-common:
 - type: x-blog
   url: http://blogs.aws.amazon.com/bigdata
