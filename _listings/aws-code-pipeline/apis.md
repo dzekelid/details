@@ -21,9 +21,9 @@ tags:
 - Migration
 - Data
 - Amazon Web Services
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/details/master/_listings/aws-code-pipeline/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/aws-code-pipeline/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: AWS Code Pipeline API
@@ -36,7 +36,7 @@ apis:
   tags: Details
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/details/master/_listings/aws-code-pipeline/action-getthirdpartyjobdetails-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/aws-code-pipeline/action-getjobdetails-get.md
 x-common:
 - type: x-blog
   url: http://blogs.aws.amazon.com/bigdata
