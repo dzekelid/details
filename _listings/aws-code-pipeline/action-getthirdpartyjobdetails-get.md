@@ -10,7 +10,7 @@ produces:
 consumes:
 - application/json
 paths:
-  /?Action=GetThirdPartyJobDetails&k=1:
+  /?Action=GetThirdPartyJobDetails:
     get:
       summary: ' Get Third Party Job Details '
       description: Requests the details of a job for a third party action
