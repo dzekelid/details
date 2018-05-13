@@ -15,19 +15,17 @@ modified: "2018-05-13"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/axa-assistance/apis.md
 specificationVersion: "0.14"
 apis:
-- name: AXA Assistance Get appliance (Extended warranty, purchase insurance ) certificate
-    details.
-  description: Get appliance (Extended warranty, purchase insurance ) certificate
-    details.
+- name: AXA Assistance Gets the car rental certificate details.
+  description: Gets the car rental certificate details.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28187-www-axa-assistance-com.jpg
   humanURL: https://www.axa-assistance.com
   baseURL: https://sandbox.api.axa-assistance.com//
   tags: Details
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/axa-assistance/sales-v1-individual-appliance-certificates-certificate-id-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/axa-assistance/sales-v1-individual-car-rental-certificates-certificate-id-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/axa-assistance/sales-v1-individual-appliance-certificates-certificate-id-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/axa-assistance/sales-v1-individual-car-rental-certificates-certificate-id-get-postman.md
 x-common:
 - type: x-crunchbase
   url: https://crunchbase.com/organization/axa-assitance
