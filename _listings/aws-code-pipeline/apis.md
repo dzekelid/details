@@ -37,15 +37,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/aws-code-pipeline/action-getthirdpartyjobdetails-get.md
-- name: AWS Code Pipeline API Get Job Details
-  description: Returns information about a job.
+- name: AWS Code Pipeline API Get Third Party Job Details
+  description: Requests the details of a job for a third party action.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Developer-Tools_AWSCodePipeline.png
   humanURL: https://aws.amazon.com/datapipeline/
   baseURL: http:://{host}//
   tags: Details
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/aws-code-pipeline/action-getjobdetails-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/aws-code-pipeline/action-getthirdpartyjobdetails-get.md
 x-common:
 - type: x-blog
   url: http://blogs.aws.amazon.com/bigdata
