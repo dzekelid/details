@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Code Pipeline API
+  title: AWS Code Pipeline API Get Job Details
   version: 1.0.0
+  description: Returns information about a job.
 schemes:
 - http
 produces:
