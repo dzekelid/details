@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: AWS Code Pipeline API
+  title: AWS Code Pipeline API Get Third Party Job Details
   version: 1.0.0
+  description: Requests the details of a job for a third party action.
 schemes:
 - http
 produces:
