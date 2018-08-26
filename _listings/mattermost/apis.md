@@ -1,24 +1,23 @@
 ---
 name: Mattermost
+x-slug: mattermost
 description: Open source, private cloud Slack-alternative, Workplace messaging for
   web, PCs and phones. MIT-licensed. Hundreds of contributors. 14 languages. Secure,
   configurable, and scalable from teams to the enterprise.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
 x-kinRank: "8"
 x-alexaRank: "95684"
-tags:
-- Technology
-- SaaS
-- New
-- Networking
-- Enterprise
-- Cloud
-created: "2018-05-13"
-modified: "2018-05-13"
+tags: Details
+created: "2018-08-26"
+modified: "2018-08-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/mattermost/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
+- type: x-api-gallery
+  url: http://matrix.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://mattermost.stack.network
 - type: x-blog
   url: https://about.mattermost.com/blog/
 - type: x-blog-rss

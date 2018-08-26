@@ -1,5 +1,6 @@
 ---
 name: VersaPay
+x-slug: versapay
 description: VersaPay handles elements of both credit and debit card merchant payment
   processing in Canada. In offering a host of merchant account services and credit
   card POS terminals it allows for an efficient merchant payment service in all aspects-
@@ -10,31 +11,199 @@ description: VersaPay handles elements of both credit and debit card merchant pa
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
 x-kinRank: "9"
 x-alexaRank: "410909"
-tags:
-- Technology
-- Stack Network
-- Payments
-- Payments
-- Financial Services
-- Checking
-- Billing
-created: "2018-05-13"
-modified: "2018-05-13"
+tags: Details
+created: "2018-08-26"
+modified: "2018-08-26"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apis.md
 specificationVersion: "0.14"
 apis:
-- name: VersaPay View Batch Details
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
   description: View batch details.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
   humanURL: http://developers.versapay.com/index.html
   baseURL: https://secure.versapay.com//
-  tags: Details
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
   properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/api-imports-id-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/api-imports-id-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
+- name: VersaPay API Reference - View Batch Details
+  x-api-slug: apiimportsid-get
+  description: View batch details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1208-versapay-corporation.jpg
+  humanURL: http://developers.versapay.com/index.html
+  baseURL: https://secure.versapay.com//
+  tags: Billing, Checking, Payments, Payments, Stack Network, Financial Services,
+    Technology, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/versapay/apiimportsid-get-openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://venmo.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://versapay.stack.network
 - type: x-base
   url: https://secure.versapay.com/api/
 - type: x-blog
