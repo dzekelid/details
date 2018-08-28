@@ -9,11 +9,39 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/843-mailje
 x-kinRank: "9"
 x-alexaRank: "20242"
 tags: Details
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/mailjet/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Mailjet Messages API - Message Detail
+  x-api-slug: messageid-get
+  description: View the details of a message.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/843-mailjet.jpg
+  humanURL: http://mailjet.com
+  baseURL: https://api.mailjet.com/v3/REST/
+  tags: Campaign, Cloud, Metrics, Marketing, Stack Network, Getting Started Example,
+    Technology, SaaS, internet, API Provider, Emails, Messages, Profiles, Emails,
+    Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/mailjet/messageid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/mailjet/messageid-get-openapi.md
+- name: Mailjet Messages API - Message Detail
+  x-api-slug: messageid-get
+  description: View the details of a message.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/843-mailjet.jpg
+  humanURL: http://mailjet.com
+  baseURL: https://api.mailjet.com/v3/REST/
+  tags: Campaign, Cloud, Metrics, Marketing, Stack Network, Getting Started Example,
+    Technology, SaaS, internet, API Provider, Emails, Messages, Profiles, Emails,
+    Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/mailjet/messageid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/mailjet/messageid-get-openapi.md
 - name: Mailjet Messages API - Message Detail
   x-api-slug: messageid-get
   description: View the details of a message.

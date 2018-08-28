@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Cisco WebEx
 x-complete: 1
@@ -15,6 +14,125 @@ produces:
 consumes:
 - application/json
 paths:
+  /licenses/{_license}:
+    get:
+      summary: Get License Details
+      description: "Shows details for a license, by ID.\r\n\r\nSpecify the license
+        ID in the licenseId parameter in the URI.\r\n\r\nhttps://developer.webex.com/endpoint-licenses-licenseId-get.html\r\n\r\nExample
+        Response:\r\n``` json\r\n{\r\n  'id' : 'OTZhYmMyYWEtM2RjYy0xMWU1LWExNTItZmUzNDgxOWNkYzlh',\r\n
+        \ 'displayName' : 'Spark Calling',\r\n  'totalUnits' : '42',\r\n  'consumedUnits'
+        : \"8'\r\n}\r\n```"
+      operationId: LicensesByLicenseGet
+      x-api-path-slug: licenses-license-get
+      parameters:
+      - in: path
+        name: _license
+      responses:
+        200:
+          description: OK
+      tags:
+      - Video Conferencing
+      - License
+      - Details
+  /roles/{_role}:
+    get:
+      summary: Get Role Details
+      description: |-
+        Shows details for a role, by ID.
+
+        Specify the role ID in the roleId parameter in the URI.
+
+        https://developer.webex.com/endpoint-roles-roleId-get.html
+
+        Example Response:
+        ``` json
+        {
+          'id' : 'OTZhYmMyYWEtM2RjYy0xMWU1LWExNTItZmUzNDgxOWNkYzlh',
+          'displayName' : 'Full Administrator'
+        }
+        ```
+      operationId: RolesByRoleGet
+      x-api-path-slug: roles-role-get
+      parameters:
+      - in: path
+        name: _role
+      responses:
+        200:
+          description: OK
+      tags:
+      - Video Conferencing
+      - Role
+      - Details
+  /people/me:
+    get:
+      summary: Get person details (me)
+      description: |-
+        Show the profile for the authenticated user.
+
+        https://developer.webex.com/endpoint-people-me-get.html
+      operationId: PeopleMeGet
+      x-api-path-slug: peopleme-get
+      responses:
+        200:
+          description: OK
+      tags:
+      - Video Conferencing
+      - Person
+      - Details
+      - (me)
+  /events/{_event}:
+    get:
+      summary: Get Events Details
+      description: "Shows details for an event, by event ID.\r\nSpecify the event
+        ID in the eventId parameter in the URI.\r\n\r\nhttps://developer.webex.com/endpoint-events-eventId-get.html"
+      operationId: EventsByEventGet
+      x-api-path-slug: events-event-get
+      parameters:
+      - in: path
+        name: _event
+      responses:
+        200:
+          description: OK
+      tags:
+      - Video Conferencing
+      - Events
+      - Details
+  /organizations/{_organization}:
+    get:
+      summary: Get Organization Details
+      description: "Shows details for an organization, by ID.\r\n\r\nSpecify the org
+        ID in the orgId parameter in the URI.\r\n\r\nhttps://developer.webex.com/endpoint-organizations-orgId-get.html\r\n\r\nExample
+        Response:\r\n``` json\r\n{\r\n  'id' : 'OTZhYmMyYWEtM2RjYy0xMWU1LWExNTItZmUzNDgxOWNkYzlh',\r\n
+        \ 'displayName' : 'Acme, Inc.',\r\n  'created' : '2015-10-18T14:26:16+00:00'\r\n}\r\n```"
+      operationId: OrganizationsByOrganizationGet
+      x-api-path-slug: organizations-organization-get
+      parameters:
+      - in: path
+        name: _organization
+      responses:
+        200:
+          description: OK
+      tags:
+      - Video Conferencing
+      - Organization
+      - Details
+  /people/{_person}:
+    get:
+      summary: Get person details
+      description: "Shows details for a person, by ID.\r\n\r\nSpecify the person ID
+        in the personId parameter in the URI.\r\n\r\nhttps://developer.webex.com/endpoint-people-personId-get.html"
+      operationId: PeopleByPersonGet
+      x-api-path-slug: people-person-get
+      parameters:
+      - in: path
+        name: _person
+      responses:
+        200:
+          description: OK
+      tags:
+      - Video Conferencing
+      - Person
+      - Details
   /memberships/{_membership}:
     get:
       summary: Get membership details
@@ -53,23 +171,6 @@ paths:
       - Video Conferencing
       - Message
       - Details
-  /people/me:
-    get:
-      summary: Get person details (me)
-      description: |-
-        Show the profile for the authenticated user.
-
-        https://developer.webex.com/endpoint-people-me-get.html
-      operationId: PeopleMeGet
-      x-api-path-slug: peopleme-get
-      responses:
-        200:
-          description: OK
-      tags:
-      - Video Conferencing
-      - Person
-      - Details
-      - (me)
   /rooms/{_room}:
     get:
       summary: Get Team room details
@@ -125,23 +226,6 @@ paths:
       - Video Conferencing
       - Team
       - Details
-  /people/{_person}:
-    get:
-      summary: Get person details
-      description: "Shows details for a person, by ID.\r\n\r\nSpecify the person ID
-        in the personId parameter in the URI.\r\n\r\nhttps://developer.webex.com/endpoint-people-personId-get.html"
-      operationId: PeopleByPersonGet
-      x-api-path-slug: people-person-get
-      parameters:
-      - in: path
-        name: _person
-      responses:
-        200:
-          description: OK
-      tags:
-      - Video Conferencing
-      - Person
-      - Details
   /webhooks/{_webhook}:
     get:
       summary: Get webhook details1
@@ -159,4 +243,3 @@ paths:
       - Video Conferencing
       - Webhook
       - Details1
----

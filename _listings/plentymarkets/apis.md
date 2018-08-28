@@ -11,11 +11,41 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Details
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/plentymarkets/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: plentymarkets REST-API - List details of a folder
+  x-api-slug: restnewslettersfoldersfolderid-get
+  description: Lists details of a folder. The ID of the folder must be specified.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/plentymarkets/restnewslettersfoldersfolderid-get-openapi.md
+- name: plentymarkets REST-API - List details of an entry
+  x-api-slug: restnewslettersentryid-get
+  description: Lists details of an entry. The ID of the entry must be specified.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/plentymarkets/restnewslettersentryid-get-openapi.md
+- name: plentymarkets REST-API - Get warehouse location details
+  x-api-slug: restwarehouseslocationsdetails-get
+  description: Gets warehouse location details
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/plentymarkets/restwarehouseslocationsdetails-get-openapi.md
 x-common:
 - type: x-blog-rss
   url: https://www.plentymarkets.co.uk/?ActionCall=WebActionRSS&rrss_id=1

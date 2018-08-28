@@ -8,11 +8,33 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/638-postma
 x-kinRank: "8"
 x-alexaRank: "87545"
 tags: Details
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/postmark/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Postmark - Get Messages Inbound Message Details
+  x-api-slug: messagesinboundmessageiddetails-get
+  description: Get messages inbound message details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/638-postmark.jpg
+  humanURL: http://postmarkapp.com
+  baseURL: https://spamcheck.postmarkapp.com//
+  tags: Target, Imports, Stack Network, Technology, SaaS, Emails, Messages, Relative
+    Data, Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/postmark/messagesinboundmessageiddetails-get-openapi.md
+- name: Postmark - Get Messages Outbound Message Details
+  x-api-slug: messagesoutboundmessageiddetails-get
+  description: Get messages outbound message details.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/638-postmark.jpg
+  humanURL: http://postmarkapp.com
+  baseURL: https://spamcheck.postmarkapp.com//
+  tags: Target, Imports, Stack Network, Technology, SaaS, Emails, Messages, Relative
+    Data, Service API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/postmark/messagesoutboundmessageiddetails-get-openapi.md
 x-common:
 - type: x--net-library
   url: http://developer.postmarkapp.com/developer-official-libs.html#dot-net

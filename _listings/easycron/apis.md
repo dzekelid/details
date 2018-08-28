@@ -8,11 +8,37 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1806-easyc
 x-kinRank: "9"
 x-alexaRank: "181380"
 tags: Details
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/easycron/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Easycron API - Get detail of a cron job.
+  x-api-slug: detail-get
+  description: Get detail of a cron job.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1806-easycron.jpg
+  humanURL: http://easycron.com
+  baseURL: https://www.easycron.com//rest
+  tags: My API Stack, Stack Network, Technology, SaaS, Marketplace, API Provider,
+    API Service Provider, Workers, Profiles, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/easycron/detail-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/easycron/detail-get-openapi.md
+- name: Easycron API - Get detail of a cron job.
+  x-api-slug: detail-get
+  description: Get detail of a cron job.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1806-easycron.jpg
+  humanURL: http://easycron.com
+  baseURL: https://www.easycron.com//rest
+  tags: My API Stack, Stack Network, Technology, SaaS, Marketplace, API Provider,
+    API Service Provider, Workers, Profiles, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/easycron/detail-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/easycron/detail-get-openapi.md
 - name: Easycron API - Get detail of a cron job.
   x-api-slug: detail-get
   description: Get detail of a cron job.

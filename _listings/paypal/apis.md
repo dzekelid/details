@@ -7,11 +7,389 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal
 x-kinRank: "10"
 x-alexaRank: "71"
 tags: Details
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Payment Details
+  x-api-slug: adaptivepaymentspaymentdetails-post
+  description: Use the PaymentDetails API operation to obtain information about a
+    payment. You can identify the payment by your tracking ID, the PayPal transaction
+    ID in an IPN message, or the pay key associated with the payment.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspaymentdetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
+- name: PayPal (Sandbox) - Preapproval Details
+  x-api-slug: adaptivepaymentspreapprovaldetails-post
+  description: Use the PreapprovalDetails API operation to obtain information about
+    an agreement between you and a sender for making payments on the sender???s behalf.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg
+  humanURL: https://paypal.com
+  baseURL: https://svcs.sandbox.paypal.com//
+  tags: International, Payments, Billing, Merchant, Indie EdTech Data Jam, Getting
+    Started Example, Stack Network, Stack, Hypermedia API, Financial Services, Technology,
+    Mobile, SaaS, internet, Invoices, Payments, Payments, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/paypal/adaptivepaymentspreapprovaldetails-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://paylocity.api.gallery.streamdata.io

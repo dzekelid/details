@@ -8,11 +8,56 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "95684"
 tags: Details
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/mattermost/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Mattermost API Reference - Get the data retention policy details.
+  x-api-slug: data-retentionpolicy-get
+  description: |-
+    Gets the current data retention policy details from the server, including what data should be purged and the cutoff times for each data type that should be purged.
+    __Minimum server version__: 4.3
+    ##### Permissions
+    Requires an active session but no other permissions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
+  humanURL: https://mattermost.com
+  baseURL: https://your-mattermost-url.com//api/v4
+  tags: Enterprise, SaaS, Technology, Cloud, API Provider, API Service Provider, Profiles,
+    Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/mattermost/data-retentionpolicy-get-openapi.md
+- name: Mattermost API Reference - Get the data retention policy details.
+  x-api-slug: data-retentionpolicy-get
+  description: |-
+    Gets the current data retention policy details from the server, including what data should be purged and the cutoff times for each data type that should be purged.
+    __Minimum server version__: 4.3
+    ##### Permissions
+    Requires an active session but no other permissions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
+  humanURL: https://mattermost.com
+  baseURL: https://your-mattermost-url.com//api/v4
+  tags: Enterprise, SaaS, Technology, Cloud, API Provider, API Service Provider, Profiles,
+    Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/mattermost/data-retentionpolicy-get-openapi.md
+- name: Mattermost API Reference - Get the data retention policy details.
+  x-api-slug: data-retentionpolicy-get
+  description: |-
+    Gets the current data retention policy details from the server, including what data should be purged and the cutoff times for each data type that should be purged.
+    __Minimum server version__: 4.3
+    ##### Permissions
+    Requires an active session but no other permissions.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mattermost-logo.png
+  humanURL: https://mattermost.com
+  baseURL: https://your-mattermost-url.com//api/v4
+  tags: Enterprise, SaaS, Technology, Cloud, API Provider, API Service Provider, Profiles,
+    Relative Data, Service API, Networks
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/mattermost/data-retentionpolicy-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://matrix.api.gallery.streamdata.io

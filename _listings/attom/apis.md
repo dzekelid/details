@@ -12,8 +12,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28881-api-
 x-kinRank: "7"
 x-alexaRank: "359677"
 tags: Details
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/apis.md
 specificationVersion: "0.14"
 apis:
@@ -112,6 +112,31 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/assessmenthistorydetail-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/assessmenthistorydetail-get-openapi.md
+- name: Attom Data Solutions API - Returns AVM details within a geography.
+  x-api-slug: avmsnapshot-get
+  description: Get a list of AVM snapshot records that fall within an Onboard GeoID
+    with a specific value range. Use propertytpe to select a specific property type
+    for your search.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28881-api-developer-attomdata-com.jpg
+  humanURL: https://api.developer.attomdata.com
+  baseURL: https://search.onboard-apis.com//communityapi/v2.0.0
+  tags: SaaS, Technology, Enterprise, Real Estate, Places, Schools, Properties, General
+    Data, Historical Data API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/avmsnapshot-get-openapi.md
+- name: Attom Data Solutions API - Returns the Attomized AVM and other property details
+    .
+  x-api-slug: attomavmdetail-get
+  description: Get Attomized AVM and other property details for a specific address.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28881-api-developer-attomdata-com.jpg
+  humanURL: https://api.developer.attomdata.com
+  baseURL: https://search.onboard-apis.com//communityapi/v2.0.0
+  tags: SaaS, Technology, Enterprise, Real Estate, Places, Schools, Properties, General
+    Data, Historical Data API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/attomavmdetail-get-openapi.md
 - name: Attom Data Solutions API - Returns detailed property information and most
     recent transaction and taxes.
   x-api-slug: propertyexpandedprofile-get
@@ -185,6 +210,49 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/saleshistoryexpandedhistory-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/saleshistoryexpandedhistory-get-openapi.md
+- name: Attom Data Solutions API - Returns AVM details for a property.
+  x-api-slug: avmdetail-get
+  description: Get AVM details for a specific address.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28881-api-developer-attomdata-com.jpg
+  humanURL: https://api.developer.attomdata.com
+  baseURL: https://search.onboard-apis.com//communityapi/v2.0.0
+  tags: SaaS, Technology, Enterprise, Real Estate, Places, Schools, Properties, General
+    Data, Historical Data API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/avmdetail-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/avmdetail-get-openapi.md
+- name: Attom Data Solutions API - Returns detailed transaction, pre-foreclosure and
+    loan history on a property.
+  x-api-slug: saleshistoryexpandedhistory-get
+  description: Get the detailed transaction, pre-foreclosure and loan history on a
+    property for a specific address.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28881-api-developer-attomdata-com.jpg
+  humanURL: https://api.developer.attomdata.com
+  baseURL: https://search.onboard-apis.com//communityapi/v2.0.0
+  tags: SaaS, Technology, Enterprise, Real Estate, Places, Schools, Properties, General
+    Data, Historical Data API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/saleshistoryexpandedhistory-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/saleshistoryexpandedhistory-get-openapi.md
+- name: Attom Data Solutions API - Returns detailed property information and most
+    recent transaction and taxes.
+  x-api-slug: propertyexpandedprofile-get
+  description: Get a detailed property information and most recent transaction and
+    taxes for a specific address.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28881-api-developer-attomdata-com.jpg
+  humanURL: https://api.developer.attomdata.com
+  baseURL: https://search.onboard-apis.com//communityapi/v2.0.0
+  tags: SaaS, Technology, Enterprise, Real Estate, Places, Schools, Properties, General
+    Data, Historical Data API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/propertyexpandedprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/attom/propertyexpandedprofile-get-openapi.md
 - name: Attom Data Solutions API - Returns AVM details for a property.
   x-api-slug: avmdetail-get
   description: Get AVM details for a specific address.

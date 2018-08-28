@@ -7,11 +7,24 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18644-taxa
 x-kinRank: "8"
 x-alexaRank: "795977"
 tags: Details
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/taxamo/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Taxamo - Detailed Refunds
+  x-api-slug: apiv1settlementdetailed-refunds-get
+  description: Detailed refunds.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18644-taxamo.jpg
+  humanURL: https://www.taxamo.com/
+  baseURL: https://api.taxamo.com//
+  tags: Taxes, VAT, Target, Stack Network, Taxes, Relative Data, Service API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/taxamo/apiv1settlementdetailed-refunds-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/taxamo/apiv1settlementdetailed-refunds-get-openapi.md
 - name: Taxamo - Detailed Refunds
   x-api-slug: apiv1settlementdetailed-refunds-get
   description: Detailed refunds.

@@ -10,11 +10,22 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Details
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/ibm-financial-crimes-insight-for-insurance/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Financial Crimes Insight for Insurance public REST APIs - Retrieve details
+    of a folio, by its internal id
+  x-api-slug: ibmfciplatformfolio-managementfolioid-get
+  description: This method is used to retrieve the folio contents from the database
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/WFS-Counter-Fraud-Technical-Level-3.png
+  humanURL: https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?infotype=AN&subtype=CA&htmlfid=897/ENUS218-305&appname=USN
+  baseURL: https://fcihost.ibm.com:9443//
+  tags: Policing, Financial, Insurance, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/ibm-financial-crimes-insight-for-insurance/ibmfciplatformfolio-managementfolioid-get-openapi.md
 x-common:
 - type: x-openapi
   url: https://www.ibm.com/support/knowledgecenter/SSC2HF_3.0.0/api/fcii-insurance-v3.0.0.yaml?origin=swagger-ui

@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Taxamo
 x-complete: 1
@@ -46,4 +45,3 @@ paths:
       tags:
       - Detailed
       - Refunds
----

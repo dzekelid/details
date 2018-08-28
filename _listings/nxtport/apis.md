@@ -7,11 +7,165 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-
 x-kinRank: "7"
 x-alexaRank: "3933231"
 tags: Details
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
+- name: T-mining Secure Container Release API (live) - Details
+  x-api-slug: apiv1locationsid-get
+  description: Get details of 1 location.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28835-www-nxtport-eu.jpg
+  humanURL: https://www.nxtport.eu
+  baseURL: https://api.nxtport.eu//blockchain
+  tags: Technology, SaaS, Enterprise, Shipping, Data, General Data, Relative Data,
+    Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/details/master/_listings/nxtport/apiv1locationsid-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://npr.api.gallery.streamdata.io

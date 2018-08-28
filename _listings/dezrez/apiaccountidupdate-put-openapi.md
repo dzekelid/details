@@ -1,0 +1,53 @@
+---
+swagger: "2.0"
+x-collection-name: Dezrez
+x-complete: 0
+info:
+  title: Dezrez Update account details
+  version: 1.0.0
+  description: Update account details.
+host: api.dezrez.com
+basePath: /
+schemes:
+- http
+produces:
+- application/json
+consumes:
+- application/json
+paths:
+  /api/account/{id}/update:
+    put:
+      summary: Update account details
+      description: Update account details.
+      operationId: Account_UpdateAccountDetailsByidBydetailsDataContract
+      x-api-path-slug: apiaccountidupdate-put
+      parameters:
+      - in: body
+        name: detailsDataContract
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: id
+      - in: header
+        name: Rezi-Api-Version
+        description: Specifies which version of the API to call
+      responses:
+        200:
+          description: OK
+      tags:
+      - Account
+      - Details
+x-streamrank:
+  polling_total_time_average: 0
+  polling_size_download_average: 0
+  streaming_total_time_average: 0
+  streaming_size_download_average: 0
+  change_yes: 0
+  change_no: 0
+  time_percentage: 0
+  size_percentage: 0
+  change_percentage: 0
+  last_run: ""
+  days_run: 0
+  minute_run: 0
+---
